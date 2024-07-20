@@ -116,3 +116,4 @@ Settings/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000
 /dev/*
 /proc/*
 /sys/*
+/.idea/
