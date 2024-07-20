@@ -12,13 +12,8 @@ _2024.07.20_
 
 ## 목차
 
-1. [변수](#1-변수)
-2. [상수](#2-상수)
-3. [클래스](#3-클래스)
-4. [메서드](#4-메서드)
-5. [접근 제어자](#5-접근-제어자)
-6. [static 키워드](#6-static-키워드)
-7. [제어문](#7-제어문)
+1. [변수 및 상수](./src/main/java/com/levelup/java/_01_variables_constants/README.md)
+2. [클래스와 메서드](./src/main/java/com/levelup/java/_02_class_method/README.md)
 
 ## 설치
 
