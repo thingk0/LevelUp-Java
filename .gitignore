@@ -1,0 +1,118 @@
+### Gradle ###
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 아이콘 설정
+Icon?
+._*
+
+# 자동생성된 파일 목록
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.metadata_never_index
+.fseventsd
+
+### Windows ###
+# Windows 기본
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows Store 파일
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.blockmap
+
+# Windows Installer 파일
+*.cab
+*.msi
+*.msm
+*.msp
+
+# 윈도우 오류 보고서 파일
+*.dmp
+
+# 드라이버 응답 로그
+*.wim
+
+# 휴지통 파일
+$Recycle.Bin/
+
+# Windows Update 파일
+*.wua
+*.wuacache
+
+# 사용자 환경설정 파일
+NTUSER.DAT
+NTUSER.DAT.LOG
+Settings/NTUSER.DAT.LOG1
+Settings/NTUSER.DAT.LOG2
+Settings/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+Settings/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+Settings/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+
+# 기타 시스템 파일
+*.sys
+
+### Linux ###
+*~
+
+# KDE 디렉토리
+.directory
+
+# Gnome 디렉토리
+.goutputstream-*
+
+# 파일 잠금
+.lock
+
+# 기기 파일
+/dev/*
+/proc/*
+/sys/*
