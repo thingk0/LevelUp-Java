@@ -12,10 +12,13 @@ _2024.07.20_
 
 ## 목차
 
-1. [변수 및 상수](./src/main/java/com/levelup/java/_01_variables_constants/README.md)
-2. [클래스와 메서드](./src/main/java/com/levelup/java/_02_class_method/README.md)
-3. [접근 제어자](./src/main/java/com/levelup/java/_03_access_modifiers/README.md)
-4. [static 과 non-static](./src/main/java/com/levelup/java/_04_static/README.md)
+1. [변수 및 상수](src/main/java/com/levelup/java/_01_variables_constants/README.md)
+2. [클래스와 메서드](src/main/java/com/levelup/java/_02_class_method/README.md)
+3. [접근 제어자](src/main/java/com/levelup/java/_03_access_modifiers/README.md)
+4. [static 과 non-static](src/main/java/com/levelup/java/_04_static/README.md)
+5. [조건문](src/main/java/com/levelup/java/_05_conditional_statements/README.md)
+6. [반복문](src/main/java/com/levelup/java/_06_loops_statements/README.md)
+7. [분기문](src/main/java/com/levelup/java/_07_branching_statements/_06_loops_statements/README.md)
 
 ## 설치
 
