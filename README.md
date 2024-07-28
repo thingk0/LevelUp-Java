@@ -22,6 +22,7 @@ _2024.07.28_
 8. [클래스와 인스턴스 EXTRA](src/main/java/com/levelup/java/_08_class_and_instance/README.md)
 9. [메서드 EXTRA](src/main/java/com/levelup/java/_09_methods/README.md)
 10. [상속, 인터페이스, 추상 클래스](src/main/java/com/levelup/java/_10_inheritance/README.md)
+11. [예외처리](src/main/java/com/levelup/java/_11_exception_handling/README.md)
 
 ## 설치
 
