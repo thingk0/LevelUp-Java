@@ -1,9 +1,5 @@
-# Variables and Constants - Example
 
-Java에서 변수와 상수의 사용을 보여주는 간단한 예제입니다.
-
----
-### 개요
+## 개요
 이 프로그램은 게임 관련 데이터를 다루는 시나리오를 사용하여 Java의 다양한 변수와 상수 타입을 시연합니다. 다음과 같은 개념을 다룹니다:
 
 - 기본 데이터 타입 (int, double, char, boolean)

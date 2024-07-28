@@ -1,9 +1,4 @@
-# Static Members and Inner Classes - Example
-
-Java에서 static 멤버와 내부 클래스의 사용을 보여주는 예제입니다.
-
----
-### 개요
+## 개요
 이 프로그램은 Java의 static 키워드와 내부 클래스의 사용을 시연합니다. 다음과 같은 개념을 다룹니다:
 
 - static과 non-static 변수

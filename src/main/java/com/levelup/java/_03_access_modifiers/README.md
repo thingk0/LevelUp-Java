@@ -1,9 +1,4 @@
-# Access Modifiers - Example
-
-Java에서 접근 제어자의 사용을 보여주는 간단한 예제입니다.
-
----
-### 개요
+## 개요
 이 프로그램은 Java의 네 가지 접근 제어자(public, private, protected, default)의 사용과 그 효과를 시연합니다. 다음과 같은 개념을 다룹니다:
 
 - public, private, protected, default(package-private) 접근 제어자
