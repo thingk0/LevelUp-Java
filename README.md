@@ -20,6 +20,7 @@ _2024.07.20_
 6. [반복문](src/main/java/com/levelup/java/_06_loops_statements/README.md)
 7. [분기문](src/main/java/com/levelup/java/_07_branching_statements/_06_loops_statements/README.md)
 8. [클래스와 인스턴스 EXTRA](src/main/java/com/levelup/java/_08_class_and_instance/README.md)
+9. [메서드 EXTRA](src/main/java/com/levelup/java/_09_methods/README.md)
 
 ## 설치
 
