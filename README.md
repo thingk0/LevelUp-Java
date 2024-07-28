@@ -19,6 +19,7 @@ _2024.07.20_
 5. [조건문](src/main/java/com/levelup/java/_05_conditional_statements/README.md)
 6. [반복문](src/main/java/com/levelup/java/_06_loops_statements/README.md)
 7. [분기문](src/main/java/com/levelup/java/_07_branching_statements/_06_loops_statements/README.md)
+8. [클래스와 인스턴스 EXTRA](src/main/java/com/levelup/java/_08_class_and_instance/README.md)
 
 ## 설치
 
