@@ -10,6 +10,11 @@ repositories {
 }
 
 dependencies {
+    // Lombok
+    compileOnly 'org.projectlombok:lombok:1.18.28'
+    annotationProcessor 'org.projectlombok:lombok:1.18.28'
+    // Gson
+    implementation 'com.google.code.gson:gson:2.10.1'
 }
 
 test {
